@@ -1,7 +1,5 @@
 -----------------------------------
-Name and School: Krishna Ravindran - John P. Stevens High School,
-                 Akhil Ravuri - John P. Stevens High School,
-                 Aryan Varshney - John P. Stevens High School
+Name and School: Krishna Ravindran - John P. Stevens High School, Akhil Ravuri - John P. Stevens High School, Aryan Varshney - John P. Stevens High School
 Date: 12/07/24
 Category: Health & Wellness
 Project Name: Help Me!
